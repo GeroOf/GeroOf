@@ -1,4 +1,15 @@
-### Hi there 👋
+### About me
+
+I'm software engineer working in Japan.
+
+* PHP (Laravel/Codeigniter)
+* Golang (gin/gorm)
+* JavasSript/TypeScript/Node.js (React/jQuery)
+* AWS (EC2/ECS/ECR/Lambda/AWS Batch/EventBridge/SQS/Aurora MySQL/S3)
+* GCP (Cloud Run/Cloud Registry/Cloud Build)
+* Linux (CentOS/Almalinux/Alpine)
+* Container (Docker)
+* CI/CD (GitHub Actions/CircleCI)
 
 <!--
 **GeroOf/GeroOf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
