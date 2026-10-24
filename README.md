@@ -2,14 +2,30 @@
 
 I'm software engineer working in Japan.
 
+* Agent Coding (Claude Code/Codex)
 * PHP (Laravel/Codeigniter)
-* Golang (gin/gorm)
-* JavasSript/TypeScript/Node.js (React/jQuery)
-* AWS (EC2/ECS/ECR/Lambda/AWS Batch/EventBridge/SQS/Step Functions/Aurora MySQL/S3)
-* GCP (Cloud Run/Cloud Registry/Cloud Build)
-* Linux (CentOS/Almalinux/Alpine)
+* Frontend JavaSript/TypeScript (React/jQuery/NextJS)
+* Backend JavaScript/TypeScript (NestJS)
+* E2E Testing (Playwright)
+* Unit Testing (PHPUnit,Jest,VitestPytest)
+* crawler/scraper (Puppeteer,Playwright,crawlee,Bright Data,DataForSEO)
+* Google Analytics 4 (GA4) API
+* Google Search Console (GSC) API
+* Google Ads API
+* AWS (EC2/ECS/ECR/Lambda/AWS Batch/EventBridge/SQS/Step Functions/Aurora MySQL/S3/CloudFormation/CDK/DynamoDB)
+* Linux (Almalinux/Alpine/Debian/Ubuntu)
 * Container (Docker)
-* CI/CD (GitHub Actions/CircleCI)
+* CI/CD (GitHub Actions)
+* Golang (gin/gorm)
+* Python (Django)
+
+Hobby use
+
+* Cloudflare (worker)
+* Hono/Honox
+* Astro
+* GitHub Pages
+* Rust
 
 <!--
 **GeroOf/GeroOf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
